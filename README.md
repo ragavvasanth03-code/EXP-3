@@ -67,4 +67,6 @@ Tabulation:2
 
 
 RESULT:
+
+
 Thus the staircase wiring is connected and tested.
